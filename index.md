@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+---
+seo:
+  type: person
+---
 
-You can use the [editor on GitHub](https://github.com/ilyasik2015/ilyasik2015.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Статус**: стараюсь зачистить о себе всю информацию в социальных сетях. Люблю провести время в telegram-чате: [@ERROR404](https://t.me/error404rorre)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Балакин Илья]({{ site.baseurl }}{% link /assets/img/1507310414.jpg  %})
 
-### Markdown
+**Телефоны**:  
++7 (985) 873-99-43 (текущий)  
++7 (983) 507-58-99  
++7 (908) 011-00-65  
++7 (913) 572-22-87  
+  
+**Telegram канал**: [@Ilya_Balakin](https://t.me/Ilya_Balakin) - это самое интересное!!!  
+**Telegram**: [@Ilyusha2017](https://t.me/Ilyusha2017) (user_id: 286688919) - уже не доступен. Можно использовать текущий номер телефона.  
+**VK**: [id329914774](https://vk.com/id329914774)  
+**Instagram**: [@ilyasik2015](https://www.instagram.com/ilyasik2015/) - удален  :confused:  
+**Twitter**: [@ilyasik2015](https://twitter.com/ilyasik2015) - удален  :confused:  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ilyasik2015/ilyasik2015.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## [Фотографии]({{ site.baseurl }}{% link album.md  %}) | [Видео]({{ site.baseurl }}{% link videos.md  %}) | [Аудио]({{ site.baseurl }}{% link voices.md  %})
