@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Фотографии
-permalink: /album/
 seo:
   type: person
 ---
