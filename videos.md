@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Видео из Telegram
-permalink: /videos/
 seo:
   type: person
 videos:
