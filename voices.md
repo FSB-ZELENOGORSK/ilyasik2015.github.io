@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Голосовые сообщения из Telegram
-permalink: /voices/
 seo:
   type: person
 voices:
