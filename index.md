@@ -14,8 +14,8 @@ seo:
 +7 (913) 572-22-87  
   
 **Telegram канал**: [@Ilya_Balakin](https://t.me/Ilya_Balakin) - это самое интересное!!!  
-**Telegram**: [@Ilyusha2017](https://t.me/Ilyusha2017) (user_id: 286688919) - уже не доступен. Можно использовать текущий номер телефона.  
-**VK**: [id329914774](https://vk.com/id329914774)  
+**Telegram**: [@Ilyusha2017](https://t.me/Ilyusha2017) (user_id: 286688919) - никнейм уже не доступен. Можно использовать текущий номер телефона для идентификации.  
+**VK**: [id329914774](https://vk.com/id329914774) - удален  :confused:  
 **Instagram**: [@ilyasik2015](https://www.instagram.com/ilyasik2015/) - удален  :confused:  
 **Twitter**: [@ilyasik2015](https://twitter.com/ilyasik2015) - удален  :confused:  
 
