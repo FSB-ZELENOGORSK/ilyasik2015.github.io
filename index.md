@@ -3,7 +3,7 @@ seo:
   type: person
 ---
 
-**Статус**: Удалился из социальных сетей и мессенджеров. Любил провести время в telegram-чате: [@ERROR404](https://t.me/error404rorre)
+**Статус**: Удалился из социальных сетей и мессенджеров. Любил провести время в telegram-чате: [@ERROR404RORRE](https://t.me/error404rorre)
 
 ![Балакин Илья]({{ site.baseurl }}{% link /assets/img/1507310414.jpg  %})
 
