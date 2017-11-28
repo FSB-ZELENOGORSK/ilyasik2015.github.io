@@ -21,4 +21,5 @@ seo:
 **Instagram**: [@ilyasik2015](https://www.instagram.com/ilyasik2015/) - удален  :confused:  
 **Twitter**: [@ilyasik2015](https://twitter.com/ilyasik2015) - удален  :confused:  
 
-## [Фотографии]({{ site.baseurl }}{% link album.md  %}) | [Видео]({{ site.baseurl }}{% link videos.md  %}) | [Аудио]({{ site.baseurl }}{% link voices.md  %}) | [Творчество]({{ site.baseurl }}{% link art.md  %})
+## Контент Ильи из Telegram:
+### [Фотографии]({{ site.baseurl }}{% link album.md  %}) | [Видео]({{ site.baseurl }}{% link videos.md  %}) | [Аудио]({{ site.baseurl }}{% link voices.md  %}) | [Творчество]({{ site.baseurl }}{% link art.md  %})
