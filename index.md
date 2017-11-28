@@ -5,7 +5,7 @@ seo:
 
 **Текущий статус**: Вернулся в Telegram, использует аккаунт с id: 470197658. Теперь подчищает все свои сообщения за собой в чатах.
 
-**Статус 11/02/2017**: Удалился из социальных сетей и мессенджеров. Любил провести время в telegram-чате: [@ERROR404RORRE](https://t.me/error404rorre)
+**Статус 11/02/2017**: Удалился из социальных сетей и мессенджеров. Любил провести время в telegram-чате: [@ERROR404RORRE](https://t.me/joinchat/CE0hRTydM5AY9BrT4C1x7Q)
 
 ![Балакин Илья]({{ site.baseurl }}{% link /assets/img/1507310414.jpg  %})
 
@@ -21,4 +21,4 @@ seo:
 **Instagram**: [@ilyasik2015](https://www.instagram.com/ilyasik2015/) - удален  :confused:  
 **Twitter**: [@ilyasik2015](https://twitter.com/ilyasik2015) - удален  :confused:  
 
-## [Фотографии]({{ site.baseurl }}{% link album.md  %}) | [Видео]({{ site.baseurl }}{% link videos.md  %}) | [Аудио]({{ site.baseurl }}{% link voices.md  %})
+## [Фотографии]({{ site.baseurl }}{% link album.md  %}) | [Видео]({{ site.baseurl }}{% link videos.md  %}) | [Аудио]({{ site.baseurl }}{% link voices.md  %}) | [Творчество]({{ site.baseurl }}{% link art.md  %})
